@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm Naincy <br><br>- 🔭 Lerning(HTML,CSS, Tailwind, C++) through Hands-on projects<br>- 📚 I'm currently doing project <br>- ⚡ </p>
+<p align="left">I'm Naincy <br><br>- 🔭 Learning(HTML,CSS, Tailwind, C++) through Hands-on projects<br>- 📚 I'm currently doing project <br>- ⚡ </p>
 
 ###
 
