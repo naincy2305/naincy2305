@@ -1,29 +1,68 @@
-# BookTown
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ZjF2Z2piZWtxZHpxN254cWk5NTU1ajlnOWlpZWFpeTFkc2MxbW4wOSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/BferOKonYOspm28AiB/giphy.gif"  />
+</div>
 
-BookTown is a fully functional website for purchasing books. It was created using HTML, CSS, Bootstrap, and vanila JavaScript. Users can browse through a variety of books, add them to their cart, and checkout securely. The website also includes a search function and user account management.
+###
 
-## The technologies used in the project:
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+<!--   <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  /> -->
+<!--   <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  /> -->
+</div>
 
-- HTML
-- CSS
-- Bootstrap
-- JavaScript
+###
 
-## The project includes the following features:
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&"  />
+</div>
 
-- User authentication and authorization
-- Shopping cart
-- Order placement
-- Payment integration
+###
 
-## Installation
-To run the BookTown Project locally, follow these steps:
+<h1 align="center">hey there 👋</h1>
 
-- Clone the repository
-- Open the index.html file in Home-Page folder in your preferred browser
-- Enjoy browsing and purchasing books!
+###
 
-## Contributing
-We welcome contributions from anyone interested in improving the BookTown! To contribute, please fork the repository and submit a pull request with your changes.
+<h3 align="left">👩‍💻  About Me</h3>
 
-`This project is developed for educational purposes and is free to use and modify.`
+###
+
+<p align="left">I'm Naincy <br><br>- 🔭 Lerning(HTML,CSS, Tailwind, C++) through Hands-on projects<br>- 📚 I'm currently doing project <br>- ⚡ </p>
+
+###
+
+<h3 align="left">🛠 Language and tools</h3>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="40" alt="go logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="40" alt="rust logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain-wordmark.svg" height="40" alt="ruby logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" height="40" alt="dot-net logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="firebase logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/circleci/circleci-plain.svg" height="40" alt="circleci logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
+</div>
+
+###
+
+<h3 align="left">🔥   My Stats :</h3>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+###
+
