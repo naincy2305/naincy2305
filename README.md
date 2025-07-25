@@ -27,7 +27,7 @@
 
 ###
 
-<p align="left">I'm Naincy <br><br>- 🔭 Learning(HTML,CSS, Tailwind, C++) through Hands-on projects<br>- 📚 Turning errors into learnind opportunities<br>- One commit at a time </p>
+<p align="left">I'm Naincy <br><br>- 🔭 Learning(HTML,CSS, Tailwind, C++) through Hands-on projects<br>- 📚 Turning errors into learning opportunities<br>- One commit at a time </p>
 
 ###
 
